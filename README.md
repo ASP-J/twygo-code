@@ -22,7 +22,8 @@ Primeiramente, é necessário copiar o conteúdo de `.env.example`, para `.env` 
 Observação: Se você alterar os valores de `.env`, possivelmente precisará alterar os valores também nas envs da interface e da API.
 
 **Setup inicial**
-![image](https://github.com/user-attachments/assets/5cefcb3a-7388-475a-bb92-1528a4086e3a)
+
+https://github.com/user-attachments/assets/e6d8f4f0-213d-4f1d-88d0-f7116067e519
 
 Para iniciar o projeto pela **primeira vez**, basta rodar os comandos abaixo:
 
