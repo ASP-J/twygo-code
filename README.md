@@ -2,10 +2,13 @@
 
 Uma plataforma de cursos muito simples
 
+![image](https://github.com/user-attachments/assets/606e2f8c-6e30-4d15-9125-bfc085381c8d)
+
+
 ## Features no repositório
 
 * API em Laravel;
-* Interface em VueJs com TypeScript;
+* Interface em VueJs com JavaScript;
 * Testes de unidade e de integração, para garantir o comportamento das principais funcionalidades;
 * Banco de dados relacional postgres.
 
