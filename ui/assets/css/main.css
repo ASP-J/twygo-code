@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    html {
+        @apply box-border;
+    }
+
+    body {
+        @apply font-sans h-full tracking-wider antialiased text-base-content;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #app, #__nuxt {
+        @apply h-full;
+    }
+
+    #__layout {
+        @apply h-screen;
+    }
+
+    *, *:before, *:after {
+        box-sizing: inherit;
+    }
+}
+
+html, body, #__nuxt {
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fadeIn {
+    animation: fadeIn 0.5s ease-out;
+}
