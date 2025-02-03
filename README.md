@@ -23,7 +23,7 @@ Observação: Se você alterar os valores de `.env`, possivelmente precisará al
 
 **Setup inicial**
 
-https://github.com/user-attachments/assets/e6d8f4f0-213d-4f1d-88d0-f7116067e519
+https://github.com/user-attachments/assets/f62fba04-2787-4977-9b36-65cc3a461f30
 
 Para iniciar o projeto pela **primeira vez**, basta rodar os comandos abaixo:
 
