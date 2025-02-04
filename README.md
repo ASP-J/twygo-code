@@ -2,10 +2,13 @@
 
 Uma plataforma de cursos muito simples
 
+![image](https://github.com/user-attachments/assets/606e2f8c-6e30-4d15-9125-bfc085381c8d)
+
+
 ## Features no repositório
 
 * API em Laravel;
-* Interface em VueJs com TypeScript;
+* Interface em VueJs com JavaScript;
 * Testes de unidade e de integração, para garantir o comportamento das principais funcionalidades;
 * Banco de dados relacional postgres.
 
@@ -20,6 +23,10 @@ Em primeiro lugar é necessário ter o docker e o docker compose instalados em s
 Primeiramente, é necessário copiar o conteúdo de `.env.example`, para `.env` no diretório raiz, e se necessário, fazer as alterações para rodar em sua máquina.
 
 Observação: Se você alterar os valores de `.env`, possivelmente precisará alterar os valores também nas envs da interface e da API.
+
+**Setup inicial**
+
+https://github.com/user-attachments/assets/f62fba04-2787-4977-9b36-65cc3a461f30
 
 Para iniciar o projeto pela **primeira vez**, basta rodar os comandos abaixo:
 
