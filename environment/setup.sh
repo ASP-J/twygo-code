@@ -8,3 +8,5 @@ docker compose exec api composer install
 docker compose exec api php artisan migrate:fresh --seed
 docker compose exec api php artisan key:generate
 docker compose exec api php artisan storage:link
+
+docker compose exec ui npm install
