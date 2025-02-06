@@ -2,7 +2,8 @@
 
 Uma plataforma de cursos muito simples
 
-![image](https://github.com/user-attachments/assets/606e2f8c-6e30-4d15-9125-bfc085381c8d)
+![image](https://github.com/user-attachments/assets/f5804bf6-d894-4a2a-9116-713f73c8b477)
+
 
 
 ## Features no repositório
